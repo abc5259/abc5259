@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=300&text=JaeHoon%20Lee&animation=fadeIn)
-<p align="center">
- LeeJaeHoon
-</p>
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">These are techs that I've used at least once.</p>
