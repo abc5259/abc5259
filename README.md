@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">
-  
-  Front-end Developer ㅡ Gyumong
-</h3>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=300&text=Hanna%20Lee&animation=fadeIn)
+<p align="center">
+ LeeJaeHoon
+</p>
 <br/>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">These are techs that I've used at least once.</p>
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <br/>
 
 </p>
-<h3 align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabc5259&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
 
