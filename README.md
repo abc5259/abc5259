@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </p>
 <br/>
-  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc5259&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abc5259&show_icons=true&theme=dark)
