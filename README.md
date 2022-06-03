@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc5259&layout=compact&theme=tokyonight" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=abc5259&show_icons=true&theme=dark" />
   </div>
 </div>
